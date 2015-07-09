@@ -1,0 +1,1 @@
+The JMTF is a java framework for tracking motion in image sequences
